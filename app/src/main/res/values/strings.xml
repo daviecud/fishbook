@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fishbook</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_account_settings">AccountSettings</string>
+</resources>
